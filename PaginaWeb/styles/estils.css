@@ -1,0 +1,25 @@
+.invis:hover 
+{
+filter: opacity(.1);
+}
+.sat:hover 
+{
+filter: saturate(300%);
+}
+.ajust
+{
+width:49%;
+}
+.ajussat:hover 
+{
+filter: saturate(300%);
+width:70%;
+}
+.desap:hover 
+{
+width:0%;
+}
+.ajust2
+{
+width:20%;
+}
